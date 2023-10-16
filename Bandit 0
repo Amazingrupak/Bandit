@@ -1,0 +1,2 @@
+This is my bandit write ups.
+First I sshed into their server int port 2220 using ssh bandit0@bandit.labs.overthewire.org -p 2220.
